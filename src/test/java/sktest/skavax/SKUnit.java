@@ -1,17 +1,11 @@
-/*
- * @(#)SKUnit.java		Created at 2018/2/3
- *
- * Copyright (c) ShaneKing All rights reserved.
- * ShaneKing PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
- */
-package sktest.skava;
+package sktest.skavax;
 
 import com.google.common.base.Stopwatch;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Rule;
 import org.junit.rules.TestName;
-import org.shaneking.skava.ling.lang.String0;
+import org.shaneking.skava.lang.String0;
 
 public class SKUnit {
   @Rule
