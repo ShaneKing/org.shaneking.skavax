@@ -1,4 +1,4 @@
-package org.shaneking.skavax.ling.servlet.http;
+package org.shaneking.skavax.servlet.http;
 
 import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;

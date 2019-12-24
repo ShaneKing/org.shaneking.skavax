@@ -1,6 +1,6 @@
-package org.shaneking.skavax.ling.servlet;
+package org.shaneking.skavax.servlet;
 
-import org.shaneking.skavax.ling.servlet.http.HttpServletRequestWrapper0;
+import org.shaneking.skavax.servlet.http.HttpServletRequestWrapper0;
 
 import javax.servlet.*;
 import javax.servlet.http.HttpServletRequest;
