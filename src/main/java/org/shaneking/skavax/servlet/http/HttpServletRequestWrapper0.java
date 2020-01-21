@@ -32,7 +32,7 @@ public class HttpServletRequestWrapper0 extends HttpServletRequestWrapper {
         requestBytes = out.toByteArray();
       }
     } catch (IOException e) {
-      log.warn("Wrapper requestBytes failed.", e);
+      log.error("Wrapper requestBytes failed.", e);
     }
   }
 
